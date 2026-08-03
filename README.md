@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&pause=1000&color=F73C7E&width=435&lines=Hi+there!+I%27m+Tam+Le+👋;Final-year+Software+Engineering+student;Building+real-world+software+projects)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&pause=1000&color=F73C7E&width=435&lines=Hi+there!+I%27m+Tam+Le+👋)](https://git.io/typing-svg) 
 
 My Porfolio: https://portfolio-bay-five-41.vercel.app
 
